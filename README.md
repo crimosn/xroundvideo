@@ -2,8 +2,6 @@
 
 ## HTML 是什麼?
 
-<https://github.com/crimosn/xroundvideo/>
-
 html 代表 **hyper text markup language**
 
 一個 html 的頁面範例：
