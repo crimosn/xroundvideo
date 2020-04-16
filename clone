@@ -1,0 +1,5 @@
+$ git clone https://github.com/crimosn/gitest.git
+Cloning into 'dummy-git'...
+remote: Counting objects: 47, done.
+remote: Total 47 (delta 0), reused 0 (delta 0), pack-reused 47
+Unpacking objects: 100% (47/47), done.
